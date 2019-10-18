@@ -1,0 +1,38 @@
+header{
+    min-height: 320px;
+    background: #f1f5f7;
+}
+.top-menu {
+    min-height: 45px;
+    background: #293449;
+}
+.wrapper {
+    outline: 2px solid gold;
+    width: 90%;
+    min-height: 45px;
+    margin: auto;
+}
+.logo-text {
+    font-family: "Verdana", sans-serif;
+    font-size: 24px;
+    padding: 10px 55px;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+    background: #ee3643;
+    color: #ffffff
+}
+
+label {
+    display: inline-block;
+    margin-left: 
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    
+    background-image: 
+    
+    background: lightblue;
+    color: #ffffff;
+    
+}
