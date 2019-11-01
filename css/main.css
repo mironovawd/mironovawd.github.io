@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+}
+
+main {
+    background-image: url("..//img/krab1.png");
+    background-repeat: no-repeat;
+    
+    background-position: center;
+    background-size: cover;
+    
+    min-height: 1000px;
+}
+
+.art-menu {
+    list-style-type: none;
+}
+
+.art-menu a {
+    color: darkgreen;
+}
+.art-menu {
+    font-family: roboto;
+
+}
+.head-menu a {
+    color: orangered;
+}
